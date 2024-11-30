@@ -15,7 +15,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/vormor/VORMOR-X5pro/device.mk)
 
 PRODUCT_DEVICE := VORMOR-X5pro
-PRODUCT_NAME := omni_VORMOR-X5pro
+PRODUCT_NAME := omni_VORMOR
 PRODUCT_BRAND := VORMO-X5pro
 PRODUCT_MODEL := VORMOR-X5pro
 PRODUCT_MANUFACTURER := vormor
